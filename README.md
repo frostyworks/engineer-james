@@ -1,8 +1,8 @@
 # engineer james
- Discord bot written in python that interacts with open notify API (http://api.open-notify.org/) to retrieve some data from space
+ Discord bot written in python that interacts with open notify API (http://api.open-notify.org/) to retrieve some data from space.
 
 # Usage
-!astronauts command retrieves data in json format about current astronauts in space.
+!astronauts command retrieves data in json format about current astronauts in space.<br/>
 !location command retrieves data in json format (latitude, longitude).
 
  # Contribute
