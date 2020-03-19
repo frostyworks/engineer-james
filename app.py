@@ -41,4 +41,4 @@ class Astronaut(discord.Client):
 
 
 app = Astronaut()
-app.run("Njg5NTE3NTcyMDMwNDY0MDIy.XnEBmA.5UKKEYU_I4srnaYJB9KmhLBzOyg")
+app.run("token")
